@@ -1,0 +1,10 @@
+aiokafka==0.12.0
+async-timeout==5.0.0
+Faker==30.8.2
+packaging==24.1
+py4j==0.10.9.7
+pyspark==3.5.3
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+six==1.16.0
+typing_extensions==4.12.2
